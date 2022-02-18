@@ -23,7 +23,7 @@ function App() {
           <a href="https://instagram.com/mpart1919">
             <FontAwesomeIcon icon={faInstagram} size="2x" color="#444" />
           </a>
-          <a href="https://twitter.com/mpart1919">
+          <a href="https://twitter.com/mpart_1919">
             <FontAwesomeIcon icon={faTwitter} size="2x" color="#444" />
           </a>
           <a href="https://fiverr.com/mpart1919">
